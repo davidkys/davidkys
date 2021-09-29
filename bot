@@ -1,0 +1,5 @@
+function response(room, msg, sender, isGroupChat, replier, ImageDB) {
+    if(msg == "어쩔") {
+        replier.reply("티비!");
+    }
+ }
